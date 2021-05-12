@@ -1,5 +1,5 @@
 title: "Lab 5 Assignment"
-author: "Lara Al Selim"
+author: "Simeon Alfa"
 date: "2021-02-23"
 output: github_document
 ---
